@@ -78,4 +78,4 @@ SIG_FILE_PATH = SIG_FLDR + "files.json"
 SIG_REG_PATH = SIG_FLDR + "registry.json"
 SIG_SHA256_PATH = SIG_FLDR + "hash_256.json"
 ```
-2. Refer to the [chocolatey usage guide](https://drive.google.com/file/d/17ax51viafkSvm99SXrECSau2iqnoD-P_/view?usp=sharing) on how to use chocolatey and run the custom program syntax correctly.
+2. Refer to the [chocolatey usage guide](https://drive.google.com/file/d/17ax51viafkSvm99SXrECSau2iqnoD-P_/view?usp=sharing) for program usage.
